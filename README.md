@@ -4,5 +4,6 @@ The Unity3D Player Statistics GUI Plugin is a plugin that can be helpful during 
 
 Features
 ====================================
-*FOV
-*Positon (Coordinates)
+FOV
+
+Coordinates
